@@ -1,6 +1,8 @@
 s3s3mirror Docker executable
 ============================
 
+[![Join the chat at https://gitter.im/pmoust/s3s3mirror-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pmoust/s3s3mirror-docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Docker container executable of [s3s3mirror](https://github.com/cobbzilla/s3s3mirror)
 
 ### About s3s3mirror
