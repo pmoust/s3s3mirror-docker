@@ -10,7 +10,7 @@ ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update && \
     apt-get install -y openjdk-6-jre git && \
     git clone https://github.com/cobbzilla/s3s3mirror.git /opt/s3s3mirror
-    
+
 WORKDIR /opt/s3s3mirror
 
-ENTRYPOINT ["s3s3mirror.sh"]
+ENTRYPOINT ["./s3s3mirror.sh"]
