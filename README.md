@@ -59,4 +59,4 @@ docker run pmoust/s3s3mirror
 
 ### Support s3s3mirror author:
 
-If you've enjoyed using s3s3mirror and are looking for a warm-fuzzy feeling, consider dropping a little somethin' into [tip jar](https://www.gittip.com/cobbzilla)
+If you've enjoyed using s3s3mirror and are looking for a warm-fuzzy feeling, consider dropping a little somethin' into [tip jar](https://cobbzilla.org/tipjar.html)
